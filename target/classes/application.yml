@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      database: Book
+      host: shivrajmongodb
+      port: 27017
+

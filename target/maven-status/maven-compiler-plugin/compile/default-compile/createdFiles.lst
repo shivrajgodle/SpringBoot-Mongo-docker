@@ -1,0 +1,4 @@
+com/shivraj/docker/compose/repository.class
+com/shivraj/docker/compose/BookRepository.class
+com/shivraj/docker/compose/modal/Book.class
+com/shivraj/docker/compose/SpringBootMongoDockerApplication.class
